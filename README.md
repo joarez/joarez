@@ -12,45 +12,54 @@ Experiência com automação E2E, testes de APIs, pipelines CI/CD e validação 
 
 ## 🔹 Test Automation
 
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-
-![Robot Framework](https://img.shields.io/badge/-Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-
-![CodeceptJS](https://img.shields.io/badge/-CodeceptJS-F6E05E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Appium](https://img.shields.io/badge/-Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CodeceptJS-F6E05E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" />
+</p>
 
 ---
 
 ## 🔹 API Testing & CI/CD
 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
 ---
 
 ## 🔹 Languages
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
 # 📌 Professional Highlights
 
-✔ Testes manuais e automatizados para aplicações web e mobile  
-✔ Automação E2E e testes de APIs  
-✔ Estratégias de testes e qualidade de software  
-✔ Integração contínua e pipelines CI/CD  
-✔ Testes funcionais, regressivos e exploratórios  
-✔ Testes mobile com Appium (Android e iOS)  
-✔ Qualidade orientada à confiabilidade e redução de falhas em produção  
+- ✔ Testes manuais e automatizados para aplicações web e mobile
+- ✔ Automação E2E e testes de APIs
+- ✔ Estratégias de testes e qualidade de software
+- ✔ Integração contínua e pipelines CI/CD
+- ✔ Testes funcionais, regressivos e exploratórios
+- ✔ Testes mobile com Appium (Android e iOS)
+- ✔ Qualidade orientada à confiabilidade e redução de falhas em produção
 
 ---
 
@@ -66,7 +75,7 @@ Experiência com automação E2E, testes de APIs, pipelines CI/CD e validação 
 
 ## 🔹 Web Automation Framework
 
-Framework de automação E2E utilizando Playwright com estrutura escalável e integração CI/CD.
+Framework de automação E2E utilizando Playwright, Robot Framework e SeleniumLibrary, com estrutura escalável, reutilização de componentes e integração CI/CD.
 
 ## 🔹 API Testing Project
 
@@ -80,19 +89,24 @@ Automação mobile com Appium para aplicações Android e iOS.
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joarez&theme=tokyonight" />
+</p>
 
 ---
 
 # 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
+<p align="left">
+  <a href="https://github.com/joarez">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](SEU_LINK_GITHUB)
+  <a href="SEU_LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 # 💡 Focused on quality, reliability and delivering better software experiences.
-
